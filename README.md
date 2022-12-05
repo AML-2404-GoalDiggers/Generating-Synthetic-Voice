@@ -7,3 +7,6 @@ This repo is an implementation of SV2TTS (Trasfer Learning from Speaker Verifica
 We created a demo toolbox which can be run in a virtual environment which takes 4 utterances of recordings either loaded from dataset given or recorded in real-time and generates mel spectrum waveforms using encoder, synthesizer and vocoder.
 
 The result produced is a cloned voice in voice of a speaker from the dataset or the speaker who records the voice.
+
+The dataset which we have created has been uploaded in the repository
+The model is trained on Librispeech dataset. Link: http://www.openslr.org/12/
