@@ -10,3 +10,5 @@ The result produced is a cloned voice in voice of a speaker from the dataset or 
 
 The dataset which we have created has been uploaded in the repository
 The model is trained on Librispeech dataset. Link: http://www.openslr.org/12/
+
+The working demonstration of our project is provided namely 'Generating Synthetic Voice working demonstration' video file.
